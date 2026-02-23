@@ -34,13 +34,13 @@
 ---
 
 ### 🧑‍💻 Featured Projects
-- 🎓 **[CogniLearn](https://github.com/SameerX64/CogniLearn)**: CogniLearn is an AI-powered adaptive learning platform that personalizes education through intelligent recommendations, quizzes, research analysis, and performance insights.
+- 🎓 **[CogniLearn](https://github.com/sameer-dhande/CogniLearn)**: CogniLearn is an AI-powered adaptive learning platform that personalizes education through intelligent recommendations, quizzes, research analysis, and performance insights.
   
-- 🖥️ **[AuditIQ](https://github.com/SameerX64/Compliance-Automation)**: Streamline compliance automation by parsing CIS/DISA docs with Regex & LLMs to auto-generate audit & remediation scripts.
+- 🖥️ **[AuditIQ](https://github.com/sameer-dhande/Compliance-Automation)**: Streamline compliance automation by parsing CIS/DISA docs with Regex & LLMs to auto-generate audit & remediation scripts.
   
-- 📦 **[Dynamic AGV Scheduling](https://github.com/SameerX64/Dynamic-AGV-Scheduling)**: Design a dynamic and efficient scheduling system for a fleet of AGVs (Automated Guided Vehicles) to deliver payloads across 9 stations, while optimizing for time, load capacity, battery management, and collision avoidance.
+- 📦 **[Dynamic AGV Scheduling](https://github.com/sameer-dhande/Dynamic-AGV-Scheduling)**: Design a dynamic and efficient scheduling system for a fleet of AGVs (Automated Guided Vehicles) to deliver payloads across 9 stations, while optimizing for time, load capacity, battery management, and collision avoidance.
 
-- 💰 **[EquiPay](https://github.com/SameerX64/EquiPay)**: EquiPay is a comprehensive and efficient payroll management system designed to automate and streamline the entire payroll process for organizations. It manages employee data, salary calculations, tax deductions, and generates payslips with precision.
+- 💰 **[EquiPay](https://github.com/sameer-dhande/EquiPay)**: EquiPay is a comprehensive and efficient payroll management system designed to automate and streamline the entire payroll process for organizations. It manages employee data, salary calculations, tax deductions, and generates payslips with precision.
 
 ---
 
@@ -78,7 +78,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameerdhande09" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sameerdhande123" target="_blank">
+  <a href="https://linkedin.com/in/sameer-dhande" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samx64" height="30" width="40" />
   </a>
 </p>
@@ -93,7 +93,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sameerx64" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/Sameer_0x38A" target="_blank">
+  <a href="https://www.leetcode.com/sameer-dhande" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sameerx64" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
