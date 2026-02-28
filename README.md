@@ -54,7 +54,7 @@
 ### 📈 Coding Stats
 - 🔢 **Codeforces**: 1600+ (Expert) with 200+ problems.
 - 🧩 **LeetCode**: 2050+ (Knight) with 600+ challenges.
-- 🍽️ **CodeChef**: 1700+ (3-Star) solving 550+ questions.
+- 🍽️ **CodeChef**: 1800+ (4-Star) solving 650+ questions.
 - 💡 **AtCoder**: 1200+ (4-Kyu).
 
 
