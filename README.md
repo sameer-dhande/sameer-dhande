@@ -111,12 +111,4 @@
   <img src="https://github.com/SameerX64/SameerX64/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerx64" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerx64&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sameerx64&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
-
 
