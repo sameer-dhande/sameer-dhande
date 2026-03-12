@@ -36,7 +36,7 @@
 ### 🧑‍💻 Featured Projects
 - 🎓 **[CogniLearn](https://github.com/sameer-dhande/CogniLearn)**: CogniLearn is an AI-powered adaptive learning platform that personalizes education through intelligent recommendations, quizzes, research analysis, and performance insights.
   
-- 🖥️ **[AuditIQ](https://github.com/sameer-dhande/Compliance-Automation)**: Streamline compliance automation by parsing CIS/DISA docs with Regex & LLMs to auto-generate audit & remediation scripts.
+- 🖥️ **[AuditIQ](https://github.com/sameer-dhande/AuditIQ)**: Streamline compliance automation by parsing CIS/DISA docs with Regex & LLMs to auto-generate audit & remediation scripts.
   
 - 📦 **[Dynamic AGV Scheduling](https://github.com/sameer-dhande/Dynamic-AGV-Scheduling)**: Design a dynamic and efficient scheduling system for a fleet of AGVs (Automated Guided Vehicles) to deliver payloads across 9 stations, while optimizing for time, load capacity, battery management, and collision avoidance.
 
