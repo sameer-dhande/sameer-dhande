@@ -7,11 +7,29 @@
 
 <div align="center">
 
-### 🎓 B.E. student at **Pune Institute of Computer Technology**  
-💻 Passionate **Full Stack Software Developer**  
-🔍 Focused on **scalable systems**, **AI-powered solutions**, and **real-time web applications**
+### 👨‍💻 Software Engineer @ **IBM India Software Labs**
+
+Building and contributing to **enterprise-grade software solutions** with **IBM Verify**.
+
+### 🎓 Education
+
+**B.E. — Pune Institute of Computer Technology (PICT)** · 2026 Passout <br>
+**CGPA: 8.89/10** · *First Class with Distinction*
+
+### 🚀 About Me
+
+💻 Passionate **Full-Stack Software Developer** focused on building scalable and reliable applications <br>
+⚙️ Interested in **Backend Engineering, Distributed Systems, Cloud & DevOps** <br>
+🤖 Exploring **AI-powered applications, automation, and intelligent systems** <br>
+🌐 Enjoy building **real-time, high-performance web applications** <br>
+📈 Continuously learning and improving through **projects, problem-solving, and system design** <br>
+
+### 🤝 Open to Collaborate
+
+Always open to collaborating on **interesting software engineering projects, open-source initiatives, and innovative ideas**.
 
 </div>
+
 
 ---
 
